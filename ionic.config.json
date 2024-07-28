@@ -1,0 +1,7 @@
+{
+  "name": "vedic-sanskrit-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
